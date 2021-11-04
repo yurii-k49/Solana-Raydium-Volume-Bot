@@ -84,8 +84,6 @@ npm run gather
 
 # 👤 Author
 
-### Discord: rabnail_15 in discord
-
 ### Twitter: [@KEI_NOVAK](https://x.com/kei_4650)   
 
 ### Telegram: [@KEI_NOVAK](https://t.me/Kei4650)   
