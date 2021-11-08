@@ -58,7 +58,7 @@ TOKEN_MINT=7MFX5LySd9CdaD8irWnLLKanpDw6gxbBuhEg3qCHWc4C   # Mint address of toke
 #  🚀 Usage
 ### 1. Clone the repository
 ```
-git clone https://github.com/Rabnail-SOL/Solana-Raydium-Volume-Bot.git
+git clone https://github.com/keidev123/Solana-Raydium-Volume-Bot.git
 cd Raydium-Volume-Bot-V2
 ```
 ### 2. Install dependencies
