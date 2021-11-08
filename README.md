@@ -82,11 +82,4 @@ npm run gather
 ```
 
 
-# 👤 Author
-
-### Twitter: [@KEI_NOVAK](https://x.com/kei_4650)   
-
-### Telegram: [@KEI_NOVAK](https://t.me/Kei4650)   
-
-
 You can always find me here, for help, or for other projects.
